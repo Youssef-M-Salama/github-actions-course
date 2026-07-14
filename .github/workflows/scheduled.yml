@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "16 * * * *"
+    - cron: "23 * * * *"
 jobs:
   daily-task:
     runs-on: ubuntu-latest
